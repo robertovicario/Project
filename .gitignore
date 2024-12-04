@@ -1,16 +1,18 @@
-# *****************
-# ***** MACOS *****
-# *****************
+#
+# MacOS
+#
+
 .DS_Store
 
-# *******************
-# ***** PROJECT *****
-# *******************
+#
+# Project
+#
+
 build/
 
-# *************
-# ***** C *****
-# *************
+#
+# C
+#
 
 # Prerequisites
 *.d
@@ -65,9 +67,9 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# ***************
-# ***** C++ *****
-# ***************
+#
+# C++
+#
 
 # Prerequisites
 *.d
@@ -102,9 +104,9 @@ dkms.conf
 *.out
 *.app
 
-# ****************
-# ***** JAVA *****
-# ****************
+#
+# Java
+#
 
 # Compiled class file
 *.class
@@ -131,9 +133,9 @@ dkms.conf
 hs_err_pid*
 replay_pid*
 
-# ******************
-# ***** PYTHON *****
-# ******************
+#
+# Python
+#
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

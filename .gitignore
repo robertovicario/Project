@@ -1,18 +1,6 @@
-#
-# MacOS
-#
-
 .DS_Store
 
-#
-# Project
-#
-
-build/
-
-#
-# C
-#
+# -------------------------
 
 # Prerequisites
 *.d
@@ -67,10 +55,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-#
-# C++
-#
-
 # Prerequisites
 *.d
 
@@ -104,10 +88,6 @@ dkms.conf
 *.out
 *.app
 
-#
-# Java
-#
-
 # Compiled class file
 *.class
 
@@ -132,10 +112,6 @@ dkms.conf
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-
-#
-# Python
-#
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
